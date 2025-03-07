@@ -2,5 +2,5 @@
 ## Edge-preserving Image Smoothing via Sparse Gradient Enhancement
 
 ## Requirement
-MATLAB
+MATLAB \\
 Run the demo.m file to execute the program
