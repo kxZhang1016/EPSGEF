@@ -3,3 +3,4 @@
 
 ## Requirement
 MATLAB
+Run the demo.m file to execute the program
